@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct HealerApp: App {
+struct HealerApp: App { 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
     }
 }
